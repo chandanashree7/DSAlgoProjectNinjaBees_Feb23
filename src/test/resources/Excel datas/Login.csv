@@ -1,0 +1,5 @@
+username,password,expectedmessage
+sdet86,user,Please check your password
+username,common,Please check your user id
+sdet86,common86,You are logged in
+Numpysdet86,sdet86batch,Invalid Username and Password
